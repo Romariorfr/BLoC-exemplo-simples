@@ -1,4 +1,4 @@
-# bloc
+# Exemplo de aplicação com bloc
 
 tutorial do youtube "como usar o bloc Pattern" => https://www.youtube.com/watch?v=UletIHoXMHA&ab_channel=LeandroBorges-Topic
 
