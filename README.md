@@ -1,6 +1,13 @@
-# Exemplo de aplicação com bloc
+# Exemplo de aplicação com Stream
 
-tutorial do youtube "como usar o bloc Pattern" => https://www.youtube.com/watch?v=UletIHoXMHA&ab_channel=LeandroBorges-Topic
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
+Eu sou Romário Ferreira 😃. Sou de Itaúna MG,estou cursando Faculdade de análise e desenvolvimento de Sistemas.Adoro aprender coisas novas.
+Em paralelo com a faculdade estou estudando desenvolvimento mobile com flutter, estou adorando flutter e dart.
+
+
+
+
 
 ## Getting Started
 
